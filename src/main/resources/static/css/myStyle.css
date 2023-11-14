@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+}
+a {
+    color: darkseagreen;
+    text-decoration: none;
+    font-size:50px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #70C852;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #0CC80F;
+}
